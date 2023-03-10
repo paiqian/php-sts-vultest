@@ -42,10 +42,10 @@ sourcecode:
 	}
 ```
 
-![image-20230310230717607](D:\网安学习\tryCVE\sts-2.assets\image-20230310230717607.png)
+![1](https://github.com/paiqian/php-sts-vultest/blob/main/static/image-20230310230717607.png)
 
 sqlmap -r /mnt/d/web_temp/php-sts/php-sts2.txt -pid --batch --current-db
 
-![image-20230310230757824](D:\网安学习\tryCVE\sts-2.assets\image-20230310230757824.png)
+![2](https://github.com/paiqian/php-sts-vultest/blob/main/static/image-20230310230757824.png)
 
-![image-20230310230806574](D:\网安学习\tryCVE\sts-2.assets\image-20230310230806574.png)
+![3](https://github.com/paiqian/php-sts-vultest/blob/main/static/image-20230310230806574.png)
