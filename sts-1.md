@@ -95,7 +95,7 @@ sourcecode:
 	}
 ```
 
-![image-20230310203128004](D:\网安学习\tryCVE\sts-1.assets\image-20230310202421828.png)
+![sourcecode](https://github.com/paiqian/php-sts-vultest/blob/main/static/image-20230310202421828.png)
 
 sqlmap command: sqlmap -r /mnt/d/web_temp/sqlattack.txt -pid --batch --dbs
 
