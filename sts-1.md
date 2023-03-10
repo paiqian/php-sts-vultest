@@ -99,6 +99,6 @@ sourcecode:
 
 sqlmap command: sqlmap -r /mnt/d/web_temp/sqlattack.txt -pid --batch --dbs
 
-![image-20230310202856402](D:\网安学习\tryCVE\sts-1.assets\image-20230310202856402.png)
+![1](https://github.com/paiqian/php-sts-vultest/blob/main/static/image-20230310202856402.png)
 
-![image-20230310202937055](D:\网安学习\tryCVE\sts-1.assets\image-20230310202937055.png)
+![2](https://github.com/paiqian/php-sts-vultest/blob/main/static/image-20230310202937055.png)
