@@ -1,5 +1,3 @@
-# CVE-2023-29792
-
 Download sourcecode from https://www.sourcecodester.com/php/16061/sales-tracker-management-system-using-php-free-source-code.html
 
 Deploy the system
